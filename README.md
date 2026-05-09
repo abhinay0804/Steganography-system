@@ -146,7 +146,7 @@ SECURE-MULTIMEDIA-STEGANOGRAPHY/
 ## Clone Repository
 
 ```bash
-git clone https://github.com/your-username/secure-multimedia-steganography.git
+git clone https://github.com/abhinay0804/secure-multimedia-steganography.git
 cd secure-multimedia-steganography
 ```
 
