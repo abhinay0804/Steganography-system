@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+env/
+
+# VS Code
+.vscode/
+
+# Output files
+output/
+
+# Generated media
+*.mp3
+*.mp4
+
+# OS files
+Thumbs.db
+.DS_Store

@@ -1,0 +1,8 @@
+cryptography
+Pillow
+numpy
+scipy
+mutagen
+pydub
+opencv-python
+audioop-lts

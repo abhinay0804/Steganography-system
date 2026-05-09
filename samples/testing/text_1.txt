@@ -1,0 +1,2 @@
+This is an official text testing envelope.
+The payload will be natively placed inside ZERO-WIDTH arrays automatically appended to the end of this string!
